@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="8" failed="4" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-21T17:25:55 IST" name="OpenCart Regression Suite test" finished-at="2023-08-21T17:26:53 IST" duration-ms="58226">
+    <groups>
+    </groups>
+    <test started-at="2023-08-21T17:25:55 IST" name="Login Page Test" finished-at="2023-08-21T17:26:42 IST" duration-ms="47282">
+      <class name="com.qa.opencart.TestClass.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.opencart.TestClass.LoginPageTest@2a3b5b47]" started-at="2023-08-21T17:25:55 IST" name="setUp" finished-at="2023-08-21T17:26:35 IST" duration-ms="39945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginPageTitleTest()[pri:0, instance:com.qa.opencart.TestClass.LoginPageTest@2a3b5b47]" started-at="2023-08-21T17:26:35 IST" name="LoginPageTitleTest" finished-at="2023-08-21T17:26:35 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method signature="LoginPageUrlTest()[pri:0, instance:com.qa.opencart.TestClass.LoginPageTest@2a3b5b47]" started-at="2023-08-21T17:26:35 IST" name="LoginPageUrlTest" finished-at="2023-08-21T17:26:35 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageUrlTest -->
+        <test-method signature="doLoginTest()[pri:0, instance:com.qa.opencart.TestClass.LoginPageTest@2a3b5b47]" started-at="2023-08-21T17:26:35 IST" name="doLoginTest" finished-at="2023-08-21T17:26:39 IST" duration-ms="4039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method signature="isForgotPassLinkPresentTest()[pri:0, instance:com.qa.opencart.TestClass.LoginPageTest@2a3b5b47]" started-at="2023-08-21T17:26:39 IST" name="isForgotPassLinkPresentTest" finished-at="2023-08-21T17:26:40 IST" duration-ms="1095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isForgotPassLinkPresentTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.opencart.TestClass.LoginPageTest@2a3b5b47]" started-at="2023-08-21T17:26:40 IST" name="tearDown" finished-at="2023-08-21T17:26:42 IST" duration-ms="1971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.TestClass.LoginPageTest -->
+    </test> <!-- Login Page Test -->
+    <test started-at="2023-08-21T17:25:55 IST" name="ProductInfoPageTest" finished-at="2023-08-21T17:26:47 IST" duration-ms="52335">
+      <class name="com.qa.opencart.TestClass.ProductInfoPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.opencart.TestClass.ProductInfoPageTest@5aa9e4eb]" started-at="2023-08-21T17:25:55 IST" name="setUp" finished-at="2023-08-21T17:26:33 IST" duration-ms="38762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="productInfoSetUp()[pri:0, instance:com.qa.opencart.TestClass.ProductInfoPageTest@5aa9e4eb]" started-at="2023-08-21T17:26:33 IST" name="productInfoSetUp" finished-at="2023-08-21T17:26:39 IST" duration-ms="5364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productInfoSetUp -->
+        <test-method signature="productHeaderTest()[pri:0, instance:com.qa.opencart.TestClass.ProductInfoPageTest@5aa9e4eb]" started-at="2023-08-21T17:26:39 IST" name="productHeaderTest" finished-at="2023-08-21T17:26:46 IST" duration-ms="6972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productHeaderTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.opencart.TestClass.ProductInfoPageTest@5aa9e4eb]" started-at="2023-08-21T17:26:46 IST" name="tearDown" finished-at="2023-08-21T17:26:47 IST" duration-ms="1178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.TestClass.ProductInfoPageTest -->
+    </test> <!-- ProductInfoPageTest -->
+    <test started-at="2023-08-21T17:25:55 IST" name="AccountsPageTest" finished-at="2023-08-21T17:26:53 IST" duration-ms="58212">
+      <class name="com.qa.opencart.TestClass.AccountsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.opencart.TestClass.AccountsPageTest@dd05255]" started-at="2023-08-21T17:25:55 IST" name="setUp" finished-at="2023-08-21T17:26:33 IST" duration-ms="38705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="accPageSetup()[pri:0, instance:com.qa.opencart.TestClass.AccountsPageTest@dd05255]" started-at="2023-08-21T17:26:33 IST" name="accPageSetup" finished-at="2023-08-21T17:26:39 IST" duration-ms="5453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accPageSetup -->
+        <test-method signature="accPageHeadersCountTest()[pri:0, instance:com.qa.opencart.TestClass.AccountsPageTest@dd05255]" started-at="2023-08-21T17:26:39 IST" name="accPageHeadersCountTest" finished-at="2023-08-21T17:26:40 IST" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accPageHeadersCountTest -->
+        <test-method signature="accountsPageTitleTest()[pri:0, instance:com.qa.opencart.TestClass.AccountsPageTest@dd05255]" started-at="2023-08-21T17:26:40 IST" name="accountsPageTitleTest" finished-at="2023-08-21T17:26:40 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountsPageTitleTest -->
+        <test-method signature="logoutLinkExistsTest()[pri:0, instance:com.qa.opencart.TestClass.AccountsPageTest@dd05255]" started-at="2023-08-21T17:26:40 IST" name="logoutLinkExistsTest" finished-at="2023-08-21T17:26:41 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutLinkExistsTest -->
+        <test-method signature="searchTest(java.lang.String,java.lang.String,int)[pri:0, instance:com.qa.opencart.TestClass.AccountsPageTest@dd05255]" started-at="2023-08-21T17:26:41 IST" name="searchTest" data-provider="getSearchKey" finished-at="2023-08-21T17:26:46 IST" duration-ms="5626" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[macbook]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MacBook Pro]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [3] but found [0]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [3] but found [0]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:1418)
+at org.testng.Assert.assertEquals(Assert.java:1382)
+at org.testng.Assert.assertEquals(Assert.java:1428)
+at com.qa.opencart.TestClass.AccountsPageTest.searchTest(AccountsPageTest.java:58)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method signature="searchTest(java.lang.String,java.lang.String,int)[pri:0, instance:com.qa.opencart.TestClass.AccountsPageTest@dd05255]" started-at="2023-08-21T17:26:46 IST" name="searchTest" data-provider="getSearchKey" finished-at="2023-08-21T17:26:49 IST" duration-ms="2636" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[imac]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[iMac]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [3] but found [0]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [3] but found [0]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:1418)
+at org.testng.Assert.assertEquals(Assert.java:1382)
+at org.testng.Assert.assertEquals(Assert.java:1428)
+at com.qa.opencart.TestClass.AccountsPageTest.searchTest(AccountsPageTest.java:58)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method signature="searchTest(java.lang.String,java.lang.String,int)[pri:0, instance:com.qa.opencart.TestClass.AccountsPageTest@dd05255]" started-at="2023-08-21T17:26:49 IST" name="searchTest" data-provider="getSearchKey" finished-at="2023-08-21T17:26:51 IST" duration-ms="1760" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samsung SyncMaster 941BW]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [1] but found [0]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [1] but found [0]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:1418)
+at org.testng.Assert.assertEquals(Assert.java:1382)
+at org.testng.Assert.assertEquals(Assert.java:1428)
+at com.qa.opencart.TestClass.AccountsPageTest.searchTest(AccountsPageTest.java:58)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method signature="searchTest(java.lang.String,java.lang.String,int)[pri:0, instance:com.qa.opencart.TestClass.AccountsPageTest@dd05255]" started-at="2023-08-21T17:26:51 IST" name="searchTest" data-provider="getSearchKey" finished-at="2023-08-21T17:26:52 IST" duration-ms="1853" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samsung Galaxy Tab 10.1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [7] but found [0]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [7] but found [0]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:1418)
+at org.testng.Assert.assertEquals(Assert.java:1382)
+at org.testng.Assert.assertEquals(Assert.java:1428)
+at com.qa.opencart.TestClass.AccountsPageTest.searchTest(AccountsPageTest.java:58)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.opencart.TestClass.AccountsPageTest@dd05255]" started-at="2023-08-21T17:26:52 IST" name="tearDown" finished-at="2023-08-21T17:26:53 IST" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.TestClass.AccountsPageTest -->
+    </test> <!-- AccountsPageTest -->
+  </suite> <!-- OpenCart Regression Suite test -->
+</testng-results>
